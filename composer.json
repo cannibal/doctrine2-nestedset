@@ -1,0 +1,13 @@
+{
+    "name": "doctrine/nested-set",
+    "description": "Provides nested set functionality - forked from blt04/doctrine2-nestedset",
+    "keywords": ["nested-set"],
+    "type": "library",
+    "license": "GPLv2.1",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "autoload":{
+           "classmap":["lib/"]
+     }
+}
